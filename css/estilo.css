@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*********HEADER**********/
+#topo {
+    background-color: grey;
+}
+
+#logo {
+    background-image: url(../images/logo.png);
+    width: 150px;
+    height: 150px;
+}
+
+/*********NAV**********/
+#menu {
+    background-color: blueviolet;
+}
+
+/*********MAIN**********/
+.destaques {
+    background-color: darkblue;
+}
+
+/*********FOOTER**********/
+#rodapé {
+    background-color: black;
+}
