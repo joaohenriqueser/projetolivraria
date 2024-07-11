@@ -10,9 +10,11 @@
 }
 
 #logo {
+    background-color: black;
     background-image: url(../images/logo.png);
-    width: 150px;
-    height: 150px;
+    background-position: 50px 10px;
+    width: 350px;
+    height: 350px;
 }
 
 /*********NAV**********/
