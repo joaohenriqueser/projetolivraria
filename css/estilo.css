@@ -1,33 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/*********HEADER**********/
 #topo {
-    background-color: grey;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
-#logo {
-    background-color: black;
-    background-image: url(../images/logo.png);
-    background-position: 50px 10px;
-    width: 350px;
-    height: 350px;
-}
-
-/*********NAV**********/
 #menu {
     background-color: blueviolet;
 }
-
-/*********MAIN**********/
-.destaques {
-    background-color: darkblue;
+.destaques, .produtos, .sobre {
+    background-color: coral;
 }
-
-/*********FOOTER**********/
-#rodapé {
-    background-color: black;
+#rodape {
+    background-color: darkkhaki;
 }
