@@ -1,14 +1,22 @@
 #topo {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
 }
 
 #menu {
     background-color: blueviolet;
 }
-.destaques, .produtos, .sobre {
+.destaques, .produtos, .sobre, .contato {
     background-color: coral;
 }
 #rodape {
     background-color: darkkhaki;
+}
+
+p {
+    font-weight: 90;
+    font-size: 1000%;
 }
